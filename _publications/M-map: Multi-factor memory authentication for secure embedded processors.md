@@ -1,8 +1,8 @@
 ---
 title: "M-map: Multi-factor memory authentication for secure embedded processors"
 collection: publications
-permalink: /publications/M-map: Multi-factor memory authentication for secure embedded processors
-excerpt: '.'
+permalink: /publication/M-map: Multi-factor memory authentication for secure embedded processors
+excerpt: 'M-map: Multi-factor memory authentication for secure embedded processors'
 date: 2015-01-01
 venue: '33rd IEEE International Conference on Computer Design (ICCD)'
 paperurl: 'http://mss4296.github.io/files/mmap.pdf'
