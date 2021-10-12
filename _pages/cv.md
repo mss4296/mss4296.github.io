@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="mss4296.github.io/_pages/Matthew Seita - Curriculum Vitae 101221.pdf" target="_blank">PDF.</a>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
