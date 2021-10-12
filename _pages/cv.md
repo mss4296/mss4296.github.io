@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="mss4296.github.io/master/_pages/Matthew Seita - Curriculum Vitae 101221.pdf" target="_blank">Click here to open a PDF of my Curriculum Vitae in a new web browser</a>
+<a href="mss4296.github.io/files/SeitaCV101221.pdf" target="_blank">Click here to open a PDF of my Curriculum Vitae in a new web browser</a>
 
 Education
 ======
