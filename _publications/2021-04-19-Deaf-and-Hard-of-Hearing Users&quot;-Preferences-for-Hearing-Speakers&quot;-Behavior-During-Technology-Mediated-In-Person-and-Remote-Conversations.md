@@ -2,7 +2,7 @@
 title: "Deaf and Hard-of-Hearing Users&quot; Preferences for Hearing Speakers&quot; Behavior During Technology-Mediated In-Person and Remote Conversations"
 collection: publications
 permalink: /publication/2021-04-19-Deaf-and-Hard-of-Hearing Users&quot;-Preferences-for-Hearing-Speakers&quot;-Behavior-During-Technology-Mediated-In-Person-and-Remote-Conversations
-excerpt: 'Deaf and Hard-of-Hearing Users&quot; Preferences for Hearing Speakers&quot; Behavior During Technology-Mediated In-Person and Remote Conversations.'
+excerpt: '--'
 date: 2021-04-19
 venue: 'Proceedings of the 18th International Web for All Conference'
 paperurl: 'http://mss4296.github.io/files/DHHPreferencesForHearingSpeakersBehaviors.pdf'
