@@ -2,7 +2,7 @@
 title: "Deaf and Hard-of-Hearing Users&quot; Prioritization of Genres of Online Video Content Requiring Accurate Captions"
 collection: publications
 permalink: /publication/2020-04-20-Deaf-and-Hard-of-Hearing-Users&quot;-Prioritization-of-Genres-of-Online-Video-Content-Requiring-Accurate-Captions
-excerpt: 'Deaf and Hard-of-Hearing Users&quot; Prioritization of Genres of Online Video Content Requiring Accurate Captions.'
+excerpt: '--'
 date: 2020-04-20
 venue: 'Proceedings of the 17th International Web for All Conference'
 paperurl: 'http://mss4296.github.io/files/ClosedASLVideos.pdf'
