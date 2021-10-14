@@ -2,7 +2,7 @@
 title: "Automatic Text Simplification Tools for Deaf and Hard of Hearing Adults: Benefits of Lexical Simplification and Providing Users with Autonomy"
 collection: publications
 permalink: /publication/2020-04-21-Automatic-Text-Simplification-Tools-for-Deaf-and-Hard-of-Hearing-Adults:-Benefits-of-Lexical-Simplification-and-Providing-Users-with-Autonomy
-excerpt: 'Automatic Text Simplification Tools for Deaf and Hard of Hearing Adults: Benefits of Lexical Simplification and Providing Users with Autonomy.'
+excerpt: '--'
 date: 2020-04-21
 venue: 'Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'http://mss4296.github.io/files/ATSToolsForDHHAdults.pdf'
