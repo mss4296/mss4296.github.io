@@ -2,7 +2,7 @@
 title: "Behavioral Changes in Speakers who are Automatically Captioned in Meetings with Deaf or Hard-of-Hearing Peers"
 collection: publications
 permalink: /publication/2018-10-08-Behavioral-Changes-in-Speakers-who-are-Automatically-Captioned-in-Meetings-with-Deaf-or-Hard-of-Hearing Peers
-excerpt: 'Behavioral Changes in Speakers who are Automatically Captioned in Meetings with Deaf or Hard-of-Hearing Peers.'
+excerpt: '--'
 date: 2018-10-08
 venue: 'Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility'
 paperurl: 'http://mss4296.github.io/files/BehavioralChangesInSpeakers.pdf'
