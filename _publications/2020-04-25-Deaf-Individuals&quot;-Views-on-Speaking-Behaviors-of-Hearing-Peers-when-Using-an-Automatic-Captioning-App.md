@@ -2,7 +2,7 @@
 title: "Deaf Individuals&quot; Views on Speaking Behaviors of Hearing Peers when Using an Automatic Captioning App"
 collection: publications
 permalink: /publication/2017-04-02-Deaf-Individuals&quot;-Views-on-Speaking-Behaviors-of-Hearing-Peers-when-Using-an-Automatic-Captioning-App
-excerpt: 'Deaf Individuals&quot; Views on Speaking Behaviors of Hearing Peers when Using an Automatic Captioning App.'
+excerpt: '--'
 date: 2020-04-25
 venue: 'Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'http://mss4296.github.io/files/DHHViewsOnSpeakingBehaviors.pdf'
