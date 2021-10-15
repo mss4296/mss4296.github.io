@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <a href="http://mss4296.github.io/files/SeitaCV101521.pdf" target="_blank">CV (pdf)</a>
+title: Curriculum Vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
