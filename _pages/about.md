@@ -14,6 +14,8 @@ My current research investigates how to better design automatic speech recogniti
 
 Please check [my full CV](https://mss4296.github.io/files/SeitaCV101521.pdf) for more details.
 
+Please check <a href="http://mss4296.github.io/files/SeitaCV101521.pdf" target="_blank">my full CV</a> for more details.
+
 Current research focus
 ======
 Deaf and hard of hearing (DHH) individuals face several barriers to communication in the workplace, particularly in small-group meetings with their hearing peers. The impromptu nature of these meetings makes scheduling sign-language interpreting or professional captioning services difficult. Recent advances in Automatic Speech Recognition (ASR) technology could help remove some of these barriers that prevent DHH people from becoming involved in group meetings. However, ASR is still imperfect, and it contains errors in its output text in many real-world conversational settings. My research proposes to investigate whether there are benefits in using ASR technology to aid understanding and communication between DHH and hearing individuals. My dissertation research will evaluate the effectiveness of using ASR in small group meetings (through empirical studies with DHH and hearing participants), as well as develop guidelines for system design to encourage hearing participants to communicate and speak more clearly.
