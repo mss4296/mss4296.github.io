@@ -12,7 +12,7 @@ I am a fifth-year Computing and Information Sciences PhD student at the Rocheste
 
 My current research investigates how to better design automatic speech recognition (ASR) technologies to facilitate communication between deaf and hard-of-hearing (DHH) and hearing individuals. I have a computer science background and my secondary research interests include augmented and virtual reality (AR/VR) and machine learning (ML), including how AR/VR and ML can be applied to improve accessibility. I have hosted and led co-design activities, conducted interviews and experimental studies, and performed both qualitative and quantitative analysis of video recordings and speech data to support my dissertation research, which has been published at various venus such as the ASSETS, ACM CHI, and W4A conferences. 
 
-Please check [my full CV](https://mss4296.github.io/files/SeitaCV101221.pdf) for more details.
+Please check [my full CV](https://mss4296.github.io/files/SeitaCV101521.pdf) for more details.
 
 Current research focus
 ======
