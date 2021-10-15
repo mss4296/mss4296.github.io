@@ -3,5 +3,5 @@ main:
   - title: "Publications"
     url: /publications/ 
   
-  - title: "[CV (pdf)](http://mss4296.github.io/files/SeitaCV101521.pdf)"
+  - title: [CV (pdf)](http://mss4296.github.io/files/SeitaCV101521.pdf)
     url: /cv/
