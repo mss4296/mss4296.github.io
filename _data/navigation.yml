@@ -3,5 +3,5 @@ main:
   - title: "Publications"
     url: /publications/ 
   
-  - title: [CV (pdf)](http://mss4296.github.io/files/SeitaCV101521.pdf)
-    url: /cv/
+  - title: <a href="http://mss4296.github.io/files/SeitaCV101521.pdf" target="_blank">Click here to open a PDF of my Curriculum Vitae in a new web browser</a>
+    url: 
