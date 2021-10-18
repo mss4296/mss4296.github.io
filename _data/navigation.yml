@@ -4,9 +4,28 @@ main:
     url: https://mss4296.github.io/files/SeitaCV101521.pdf
     
   - title: "Publications"
-    url: /publications/
-    
-  - title: "Publications (testing)"
     url: /publications_short/ 
+    
+#  - title: "Publications"
+#    url: /publications/
+
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching"
+#    url: /teaching/    
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+#  - title: "CV"
+#    url: /cv/
+    
+#  - title: "Guide"
+#    url: /markdown/
+
   
 
