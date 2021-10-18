@@ -1,7 +1,9 @@
 # main links links
 main:
+  - title: <a href="http://mss4296.github.io/files/SeitaCV101521.pdf" target="_blank">CV (pdf)</a>
+    url: 
+    
   - title: "Publications"
     url: /publications/ 
   
-  - title: <a href="http://mss4296.github.io/files/SeitaCV101521.pdf" target="_blank">CV (pdf)</a>
-    url: 
+
