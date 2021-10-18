@@ -3,8 +3,8 @@ main:
   - title: "<a href="http://mss4296.github.io/files/SeitaCV101521.pdf" target="_blank">CV (pdf)</a>"
     url: 
     
-  - title: "[CV (pdf)](mss4296.github.io/files/SeitaCV101521.pdf)"
-    url: /cv/
+  - title: <a href="http://google.com" target="_blank">Google</a>
+    url: 
     
   - title: "Publications"
     url: /publications/ 
