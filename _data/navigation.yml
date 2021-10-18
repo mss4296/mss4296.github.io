@@ -4,7 +4,7 @@ main:
     url: 
     
   - title: External Link
-    url: http://www.google.com
+    url: https://www.google.com
     
   - title: "Publications"
     url: /publications/ 
