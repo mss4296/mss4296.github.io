@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+
+<br/>
+<br/>
+
 Recent Update(s)
 ======
 12/3/2021 -- Our co-design paper has been conditionally accepted to the CHI'22 conference! Be on the lookout for the full publication in April 2022.
 
-About me
+Who am I?
 ======
 I am a fifth-year Computing and Information Sciences PhD student at the Rochester Institute of Technology (RIT). I am currently an accessibility and human-computer interaction researcher at the [Center for Accessibility and Inclusion Research (CAIR) Lab](http://cair.rit.edu/) at RIT and I am advised by [Dr. Matt Huenerfauth](https://huenerfauth.ist.rit.edu/). My work is generously supported by the National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). I have published my work at leading HCI research venues, including the ACM CHI and ASSETS conferences; I am profoundly Deaf and fluent in English and American Sign Language.
 
