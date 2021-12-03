@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br/>
 
-<br/>
-<br/>
 
 Recent Update(s)
 ======
