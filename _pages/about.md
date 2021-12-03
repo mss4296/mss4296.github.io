@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+Recent Update(s)
+======
+12/3/2021 -- Our co-design paper has been conditionally accepted to the CHI'22 conference! Be on the lookout for the full publication in April 2022.
+
+About me
+======
 I am a fifth-year Computing and Information Sciences PhD student at the Rochester Institute of Technology (RIT). I am currently an accessibility and human-computer interaction researcher at the [Center for Accessibility and Inclusion Research (CAIR) Lab](http://cair.rit.edu/) at RIT and I am advised by [Dr. Matt Huenerfauth](https://huenerfauth.ist.rit.edu/). My work is generously supported by the National Science Foundation [Graduate Research Fellowship](https://www.nsfgrfp.org/). I have published my work at leading HCI research venues, including the ACM CHI and ASSETS conferences; I am profoundly Deaf and fluent in English and American Sign Language.
 
 My current research investigates how to better design automatic speech recognition (ASR) technologies to facilitate communication between deaf and hard-of-hearing (DHH) and hearing individuals. I have hosted and led co-design activities, conducted interviews and experimental studies, and performed both qualitative and quantitative analysis of video recordings, questionnaires, and speech data to support my dissertation research. In addition, I have a computer science background and my secondary research interests include augmented and virtual reality (AR/VR) and machine learning (ML), particularly how AR/VR and ML can be applied to American Sign Language (ASL) research and to improve accessibility for the DHH community. 
